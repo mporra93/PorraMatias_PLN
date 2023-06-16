@@ -41,5 +41,5 @@ Colab: [BOT QA](https://github.com/mporra93/PorraMatias_PLN/blob/main/TP6-BOT%20
 
 
 # Gracias!
-Feel free to contact me by mail mporra.ie@gmail.com for any doubt.\
-Enjoy :smile:!!
+Pueden contactarme cuando quieran por mail mporra.ie@gmail.com .\
+Saludos! :smile:!!
